@@ -5,23 +5,17 @@
   Passionate about building modern, responsive, and user-friendly web applications.
 </p>
 
-<p align="center">
-  <a href="https://github.com/sanjeevi-99">
-    <img src="https://komarev.com/ghpvc/?username=sanjeevi-99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend/Web Developer with **2+ years of experience**
-- ⚛️ Specialized in **React.js**, JavaScript, HTML5, CSS3 & Tailwind CSS
+- 💻 Frontend Developer with **2+ years of experience**
+- ⚛️ Specialized in **React.js**, JavaScript, HTML, CSS & Tailwind CSS
 - 🌐 Experienced in **Node.js, Express.js, MongoDB**
-- 🎨 Passionate about UI/UX Design and Responsive Web Development
-- 🛠️ Experienced with **WordPress, Elementor, Figma & Photoshop**
-- 📚 Currently learning **Next.js, TypeScript & Advanced React**
-- 🎯 Open to **Frontend Developer, React.js Developer, MERN Stack Developer and Web Developer** opportunities
+- 🎨 Passionate about creating beautiful UI/UX
+- 🛠️ Experienced with **WordPress**, Elementor & Figma
+- 📚 Currently improving my Full Stack Development skills
+- 🎯 Open to Frontend, React.js and Web Developer opportunities
 
 ---
 
@@ -29,71 +23,71 @@
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nextjs,typescript" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-</p>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### CMS & Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress,figma,photoshop" />
-</p>
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 🎓 SkillDome
-A modern career guidance platform that helps students discover career paths, choose suitable courses, and plan their future through a responsive and interactive web experience.
+Career Guidance Platform helping students choose the right career path.
 
-**Tech Stack**
-- React.js
-- Tailwind CSS
-- Framer Motion
-- Node.js
+**Tech Stack:** React.js • Tailwind CSS • Framer Motion • Node.js
 
 ---
 
-### 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing my skills, projects, and professional experience.
-
-🔗 Repository:
-https://github.com/sanjeevi-99/Sanjeevi---Portfolio
+### 🌐 Portfolio Website
+Personal portfolio showcasing my projects, skills and experience.
 
 ---
 
-### 💼 Business & Company Websites
-
-- WordPress Websites
-- Landing Pages
-- Responsive Business Websites
-- UI/UX Designs
-- React Applications
+### 🛒 E-Commerce Projects
+Responsive shopping websites built using React and modern frontend technologies.
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeevi-99&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevi-99&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevi-99&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevi-99&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevi-99&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevi-99&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -102,45 +96,18 @@ https://github.com/sanjeevi-99/Sanjeevi---Portfolio
 
 - Next.js
 - TypeScript
-- MERN Stack Development
+- Advanced React Patterns
 - Performance Optimization
-- Clean Architecture
-- API Integration
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sanjeevi-k-3199353b3">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sanjeevi-99/Sanjeevi---Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:sanjeevikandasamy233@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sanjeevi-k-3199353b3
-- 🌐 **Portfolio:** https://github.com/sanjeevi-99/Sanjeevi---Portfolio
-- 📧 **Email:** sanjeevikandasamy233@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sanjeevi-k-3199353b3
+- 🌐 Portfolio: https://github.com/sanjeevi-99/Sanjeevi---Portfolio
+- 📧 Email: sanjeevikandasamy233@gmail.com
 
 ---
-
-## 💡 Fun Fact
-
-> "Great user experiences are built by combining clean code, creative design, and continuous learning."
-
----
-
 <p align="center">
-⭐ If you like my work, consider giving a ⭐ to my repositories.
-</p>
-
-<p align="center">
-Thanks for visiting my profile! ❤️
+⭐ Thanks for visiting my profile! ⭐
 </p>
